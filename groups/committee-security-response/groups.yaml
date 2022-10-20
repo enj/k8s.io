@@ -51,8 +51,6 @@ groups:
       - secure@sap.com
       - security@digitalocean.com
       - security@giantswarm.io
-      - security@gravitational.com
-      - security@kinvolk.io
       - security@loodse.com
       - security@platform9.com
       - security@rancher.com
